@@ -27,6 +27,11 @@ const App = () => {
       title: 'mens',
       imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
     },
+    {
+      id: 6,
+      title: 'menss',
+      imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
+    },
   ];
 
   return <Directory categories={categories} />;
